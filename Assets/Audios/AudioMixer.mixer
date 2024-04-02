@@ -82,6 +82,8 @@ AudioMixerController:
   m_EnableSuspend: 1
   m_UpdateMode: 0
   m_ExposedParameters:
+  - guid: fbbe85171821bdc4ba0ffdd65a4f2066
+    name: VolumeFX
   - guid: a8049279b2c63aa449ef75bdad761af8
     name: VolumeMusique
   m_AudioMixerGroupViews:
